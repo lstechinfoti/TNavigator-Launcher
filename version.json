@@ -1,0 +1,21 @@
+{
+  "name": "TNavigator Launcher",
+  "version": "3.0.0",
+  "tag": "v3.0.0",
+  "releaseDate": "2026-05-02",
+  "mandatory": false,
+  "downloadUrl": "https://github.com/lstechinfoti/TNavigator-Launcher/releases/latest/download/TNavigatorLauncher_Setup_3.0.0.exe",
+  "sha256": "3F2B30DE919D3FB1382C102C8CBBB6C7163D6143E55E9D9FC0AA73A5CC35D0E2",
+  "fileName": "TNavigatorLauncher_Setup_3.0.0.exe",
+  "minimumWindowsVersion": "10",
+  "architecture": "win-x64",
+  "notes": [
+    "Interface moderna e responsiva.",
+    "Instalador profissional para Windows.",
+    "Splash screen premium.",
+    "Validação obrigatória por SHA256.",
+    "Backup e restauração.",
+    "Logs com filtros.",
+    "Tela Sobre com diagnóstico técnico."
+  ]
+}
