@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/banner-1.png" alt="TNavigator Launcher" width="100%">
+  <img src="docs/screenshots/banner-1.png" alt="TNavigator Launcher" width="100%">
 </p>
 
 <h1 align="center">TNavigator Launcher</h1>
