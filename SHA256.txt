@@ -1,6 +1,0 @@
-Arquivo: TNavigatorLauncher_Setup_3.0.0.exe
-SHA256: 3F2B30DE919D3FB1382C102C8CBBB6C7163D6143E55E9D9FC0AA73A5CC35D0E2
-Versão: 3.0.0
-Tag: v3.0.0
-Data: 2026-05-02
-Repositório: https://github.com/lstechinfoti/TNavigator-Launcher
