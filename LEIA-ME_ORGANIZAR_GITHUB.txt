@@ -1,0 +1,21 @@
+# Como organizar o GitHub
+
+1. Extraia este ZIP.
+2. Envie os arquivos para a raiz do repositório.
+3. Mantenha o site dentro da pasta `docs`.
+4. No GitHub, vá em Settings > Pages.
+5. Use uma das opções:
+
+Opção simples:
+- Source: Deploy from a branch
+- Branch: main
+- Folder: /docs
+
+Opção profissional:
+- Source: GitHub Actions
+- O workflow `.github/workflows/pages.yml` já está incluído.
+
+## Importante
+
+Este pacote não inclui código-fonte do app.
+Ele organiza apenas documentação, site, suporte, segurança e release.

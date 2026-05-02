@@ -1,0 +1,7 @@
+Copyright (c) LSTechInfo TI
+
+Todos os direitos reservados.
+
+Este repositório é usado para distribuição pública, documentação, site, releases e suporte do TNavigator Launcher.
+
+O código-fonte do aplicativo não está incluído neste repositório.

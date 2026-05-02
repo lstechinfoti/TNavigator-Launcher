@@ -1,0 +1,27 @@
+Correção CSS — Microsoft Edge Tools
+
+Avisos corrigidos:
+
+1. mask-image sem prefixo:
+   - adicionado -webkit-mask-image antes de mask-image
+
+2. backdrop-filter fora de ordem:
+   - reorganizado para -webkit-backdrop-filter vir antes de backdrop-filter
+
+3. text-wrap:
+   - removido text-wrap: balance para evitar aviso de compatibilidade
+
+4. min-height:auto:
+   - substituído por min-height:0 para evitar aviso no Firefox
+
+5. meta theme-color:
+   - removido do index.html para evitar aviso em Firefox/Opera
+
+Arquivos alterados:
+
+- index.html
+- assets/css/style.css
+
+Como usar:
+
+Substitua os arquivos do site por estes arquivos corrigidos.
