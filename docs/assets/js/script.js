@@ -1,8 +1,3 @@
-// ==================================================
-// TNavigator Launcher 3.0 — JavaScript
-// Funcionalidades: menu mobile, modal, scroll, copiar comando, reveal
-// ==================================================
-
 const navToggle = document.querySelector("#navToggle");
 const navMenu = document.querySelector("#navMenu");
 const navLinks = document.querySelectorAll(".nav-menu a");
