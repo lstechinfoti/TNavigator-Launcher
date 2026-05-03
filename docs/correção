@@ -16,12 +16,3 @@ Avisos corrigidos:
 
 5. meta theme-color:
    - removido do index.html para evitar aviso em Firefox/Opera
-
-Arquivos alterados:
-
-- index.html
-- assets/css/style.css
-
-Como usar:
-
-Substitua os arquivos do site por estes arquivos corrigidos.
